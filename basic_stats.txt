@@ -1,0 +1,42 @@
+===== DESCRIPTIVE STATISTICS =====
+       Overall rank       Score  GDP per capita  Social support  Healthy life expectancy  Freedom to make life choices  Generosity  Perceptions of corruption
+count    156.000000  156.000000      156.000000      156.000000               156.000000                    156.000000  156.000000                 156.000000
+mean      78.500000    5.407096        0.905147        1.208814                 0.725244                      0.392571    0.184846                   0.110603
+std       45.177428    1.113120        0.398389        0.299191                 0.242124                      0.143289    0.095254                   0.094538
+min        1.000000    2.853000        0.000000        0.000000                 0.000000                      0.000000    0.000000                   0.000000
+25%       39.750000    4.544500        0.602750        1.055750                 0.547750                      0.308000    0.108750                   0.047000
+50%       78.500000    5.379500        0.960000        1.271500                 0.789000                      0.417000    0.177500                   0.085500
+75%      117.250000    6.184500        1.232500        1.452500                 0.881750                      0.507250    0.248250                   0.141250
+max      156.000000    7.769000        1.684000        1.624000                 1.141000                      0.631000    0.566000                   0.453000
+
+===== BASIC STATISTICS =====
+Number of countries: 156
+Average Happiness Score: 5.407
+Happiest Country: Finland (7.769)
+Least Happy Country: South Sudan (2.853)
+
+===== ADVANCED STATISTICS =====
+Correlation with Happiness Score:
+GDP per capita: 0.794
+Healthy life expectancy: 0.780
+Social support: 0.777
+Freedom to make life choices: 0.567
+Perceptions of corruption: 0.386
+Generosity: 0.076
+Overall rank: -0.989
+
+Top 5 countries by GDP per capita:
+Qatar: 1.684
+Luxembourg: 1.609
+Singapore: 1.572
+United Arab Emirates: 1.503
+Kuwait: 1.500
+
+===== COMPLEX STATISTICS =====
+Top 5 countries based on normalized weighted factors:
+Singapore: 0.866
+New Zealand: 0.830
+Denmark: 0.825
+Norway: 0.824
+Switzerland: 0.809
+

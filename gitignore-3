@@ -1,0 +1,26 @@
+# Ignore dataset file (DO NOT include actual data in GitHub)
+data/2019.csv
+
+# Ignore outputs generated from scripts
+outputs/*.txt
+outputs/*.json
+
+# Ignore system or editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code and PyCharm settings
+.vscode/
+.idea/
+
+# Environment files (if you use virtualenv)
+env/
+venv/
+.env

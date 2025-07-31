@@ -1,0 +1,94 @@
+{
+    "Q1": "Finland",
+    "Q2": "South Sudan",
+    "Q3": 156,
+    "Q4": 5.407,
+    "Q5": [
+        {
+            "Country or region": "Qatar",
+            "GDP per capita": 1.684
+        },
+        {
+            "Country or region": "Luxembourg",
+            "GDP per capita": 1.609
+        },
+        {
+            "Country or region": "Singapore",
+            "GDP per capita": 1.572
+        },
+        {
+            "Country or region": "United Arab Emirates",
+            "GDP per capita": 1.503
+        },
+        {
+            "Country or region": "Kuwait",
+            "GDP per capita": 1.5
+        }
+    ],
+    "Q6": "GDP per capita",
+    "Q7": 0.725,
+    "Q8": "Myanmar",
+    "Q9": "GDP per capita",
+    "Q10": [
+        "GDP per capita",
+        "Healthy life expectancy",
+        "Social support",
+        "Freedom to make life choices",
+        "Perceptions of corruption",
+        "Generosity",
+        "Overall rank"
+    ],
+    "Q11": "Singapore",
+    "Q12": [
+        "Kenya",
+        "Myanmar",
+        "Haiti",
+        "Syria"
+    ],
+    "Q13": {
+        "Threshold": 0.9,
+        "Countries": [
+            "Finland",
+            "Denmark",
+            "Norway",
+            "Iceland",
+            "Netherlands",
+            "Switzerland",
+            "Sweden",
+            "New Zealand",
+            "Canada",
+            "Austria",
+            "Australia",
+            "Costa Rica",
+            "Israel",
+            "Luxembourg",
+            "United Kingdom",
+            "Ireland"
+        ]
+    },
+    "Q14": {
+        "Correlation": 0.386
+    },
+    "Q15": [
+        "Guatemala",
+        "El Salvador",
+        "Uzbekistan",
+        "Nicaragua",
+        "Costa Rica",
+        "Honduras",
+        "Tajikistan",
+        "Pakistan",
+        "Somalia",
+        "Kosovo",
+        "Bolivia",
+        "Brazil",
+        "Moldova",
+        "Jamaica",
+        "Ecuador",
+        "Niger",
+        "Kyrgyzstan",
+        "Mexico",
+        "Colombia"
+    ],
+    "Q16": "GDP per capita"
+}
